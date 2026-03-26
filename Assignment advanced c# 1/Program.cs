@@ -3,7 +3,7 @@ using System.Data.Common;
 using System.Net.NetworkInformation;
 using System.Reflection.Metadata;
 
-/*namespace Assignment_advanced_c__1
+namespace Assignment_advanced_c__1
 {
     internal class Program
     {
@@ -12,7 +12,7 @@ using System.Reflection.Metadata;
             
         }
     }
-}*/
+}
 #region q1:
 /*Q1: What is a generic class? Why use generics?
 Sol:
