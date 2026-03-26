@@ -9,7 +9,7 @@ namespace Assignment_advanced_c__1
     {
         static void Main(string[] args)
         {
-        }
+        
 #region q1:
             /*Q1: What is a generic class? Why use generics?
             Sol:
