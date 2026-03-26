@@ -8,8 +8,8 @@ namespace Assignment_advanced_c__1
     internal class Program
     {
         static void Main(string[] args)
-        {
-     #region solution   
+        { } }
+     #region solution a11 question 
             #region q1:
             /*Q1: What is a generic class? Why use generics?
             Sol:
@@ -284,5 +284,5 @@ class Container<T>
             }
         }
         #endregion
-    } }
+ 
 #endregion
