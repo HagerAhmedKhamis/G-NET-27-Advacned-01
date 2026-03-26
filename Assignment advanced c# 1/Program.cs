@@ -9,8 +9,8 @@ namespace Assignment_advanced_c__1
     {
         static void Main(string[] args)
         {
-        
-#region q1:
+     #region solution   
+            #region q1:
             /*Q1: What is a generic class? Why use generics?
             Sol:
             They allow you to define type-safe classes, interfaces, methods, and delegates without committing to a specific data type until the code is used
@@ -49,6 +49,7 @@ class Container<T>
         }
 
         #endregion
+
         #region q4 :
         //A method that declares its own type parameter(s). It can exist in both generic and non-generic classes. The compiler can often infer the type automatically.
         //Ex
@@ -284,3 +285,4 @@ class Container<T>
         }
         #endregion
     } }
+#endregion
